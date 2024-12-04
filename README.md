@@ -4,7 +4,7 @@
  Technologies Used: <br/>
     <span/> HTML- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="Documentation">Documentation</a>
    <br/>
-  < span/> CSS -<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="Documentation">Documentation</a>
+  <span/> CSS -<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="Documentation">Documentation</a>
    <br/>
   <span/> Javascript- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="Documentation">Documentation</a>
    <br/>

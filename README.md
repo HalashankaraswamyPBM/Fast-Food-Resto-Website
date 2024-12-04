@@ -5,11 +5,13 @@
    HTML
    CSS 
    Javascript
-HomePage
+                                           HomePage
 ![Screenshot (17)](https://github.com/user-attachments/assets/330f3e8b-abf3-46a0-a3ea-568ffbb4aa04)
-About Us
+                                           About Us
 ![Screenshot 2024-12-04 133626](https://github.com/user-attachments/assets/7532e284-c7f3-4cbf-82d1-0e3fa1562961)
-Shop
+                                            Shop
 ![Screenshot 2024-12-04 133649](https://github.com/user-attachments/assets/5a62ce95-3a27-42dc-aca1-64ae6c0813b6)
-Blog
+                                            Blog
 ![Screenshot 2024-12-04 133720](https://github.com/user-attachments/assets/d27d8ca8-a2ad-4421-a3d3-b23abc2c2834)
+
+HPBM @ copyright 2024 all rights are reserved.

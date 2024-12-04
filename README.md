@@ -1,8 +1,8 @@
 # Fast-Food-Resto-Website
  A responsive fast food website built with HTML, CSS, JavaScript, and React, featuring a modern UI/UX. It includes an interactive menu, cart functionality, smooth animations, and dynamic content rendering. The site provides a seamless user experience with filtering, search options, and a contact form, ideal for showcasing fast food products.
-
- Technologies Used:
-   HTML- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="Documentation">Documentation</a>
+<pre>
+ Technologies Used: <br/>
+    HTML- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="Documentation">Documentation</a>
    <br/>
    CSS -<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="Documentation">Documentation</a>
    <br/>
@@ -17,4 +17,5 @@
                                             Blog
 ![Screenshot 2024-12-04 133720](https://github.com/user-attachments/assets/d27d8ca8-a2ad-4421-a3d3-b23abc2c2834)
 
-HPBM @ copyright 2024 all rights are reserved.
+                      HPBM @ copyright 2024 all rights are reserved.
+</pre>

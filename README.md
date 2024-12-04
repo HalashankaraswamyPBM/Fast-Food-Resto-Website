@@ -17,4 +17,4 @@
                                             Blog
 ![Screenshot 2024-12-04 133720](https://github.com/user-attachments/assets/d27d8ca8-a2ad-4421-a3d3-b23abc2c2834)
 
-                      HPBM @ copyright 2024 all rights are reserved.
+                              HPBM @ copyright 2024 all rights are reserved.

@@ -4,9 +4,9 @@
  Technologies Used:
    HTML- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="Documentation">Documentation</link>
    <br/>
-   CSS 
+   CSS -<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="Documentation">Documentation</a>
    <br/>
-   Javascript 
+   Javascript- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="Documentation">Documentation</a>
    <br/>
                                            HomePage
 ![Screenshot (17)](https://github.com/user-attachments/assets/330f3e8b-abf3-46a0-a3ea-568ffbb4aa04)
